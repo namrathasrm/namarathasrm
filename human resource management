@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Evaluation</title>
+<link rel="stylesheet" type="text/css" href="app.css">
+<link rel="stylesheet" type="text/css"
+href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-
+icons@0.1.2/css/themify-icons.css">
+</head>
+<body>
+<div class="he">
+<div class="sidebar">
+<div class="sidebar-header">
+<h3 class="brand">
+<span class="ti-unlink"></span>
+<a
+href="../HomePage/index.html"><span>HRMS</span></a>
+</h3>
+<span class="ti-menu-alt"></span>
+</div>
+<div class="sidebar-menu">
+<ul>
+<li>
+<a href="">
+<span>Admin</span>
+</a>
+</li>
+<li>
+<a href="../Dashboard/index.html">
+<span class="ti-home"></span>
+<span>Home</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-id-
+badge"></span>
+<span>My Profile</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-link"></span>
+<span>Departments</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-files"></span>
+<span>Employees</span>
+</a>
+</li>placeholder="Search">
+<li>
+<a href="">
+desktop"></span>
+<span class="ti-
+<span>Vacation</span>
+</a>
+</li>
+<li class="active">
+<a href="../EvaluationsPage/index.html">
+chart"></span>
+<span class="ti-pie-
+<span>Evaluations</span>
+</a>
+</li>
+<li>
+<a href="../TrainingPage/index.html">
+chart"></span>
+<span class="ti-pie-
+<span>Training</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-file"></span>
+<span>Attendance</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-money"></span>
+<span>Salary</span>
+</a>
+</li>
+<li>
+<a href="">
+<span class="ti-settings"></span>
+<span>Account</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="main-content">
+<header>
+<div class="search-wrapper">
+<span class="ti-search"></span>
+<input type="search" name=""
+</div>
+<div class="social-icons">
+<span class="ti-bell"></span>
+<span class="ti-comment"></span>
+<div></div>
+</div>
+</header>
+<main>
+<section>
+<a href="../EvaluationsPage/index.html">
+<h2 class="dash-title">Evaluations</h2>
+</a>
+<div class="dash-cards">
+<div class="card-single">
+<div class="card-body">
+list"></span>
+<span class="ti-
+<div>
+<h5>Evaluations</h5>
+href="../EvaluationsList/index.html">
+<a
+<h4>Evaluations List</h4>
+</a>
+</div>
+</div>
+<div class="card-footer">
+href="../EvaluationsList/index.html">View</a>
+<a
+</div>
+</div>
+<div class="card-single">
+<div class="card-body">
+alt"></span>
+<span class="ti-pencil-
+<div>
+<h5>Evaluations</h5>
+href="../EvaluationsAdd/index.html">
+<a
+Evaluation</h4>
+<h4>Add
+</a>
+</div>
+</div>
+<div class="card-footer">
+href="../EvaluationsAdd/index.html">View</a>
+<a
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
